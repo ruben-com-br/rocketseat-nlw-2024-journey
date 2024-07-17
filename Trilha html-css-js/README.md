@@ -39,7 +39,7 @@ Esse é um dos projetos do evento NLW Journey, um dos conteúdos disponíveis pa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1392277205162897872). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Pode acessar o projeto neste [NESTE LINK](https://ruben-com-br.github.io/rocketseat-nlw-2024-journey/Trilha%20html-css-js/) Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1392277205162897872). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
